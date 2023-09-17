@@ -1,4 +1,4 @@
-<h1><i>Hey, i'm ANIRUDH</i></h1>
+<h1><b>Hey, i'm ANIRUDH</b></h1>
  
 - 👋 Hi, I’m @Anirudhshaji
 - 👀 I’m Cyber security analyst.
