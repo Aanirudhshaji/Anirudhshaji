@@ -1,6 +1,6 @@
 <h1><b>Hey, i'm ANIRUDH</b></h1>
  
-- 👋 Hi, I’m @Anirudhshaji
+- 👋 <b>Hi, I’m @Anirudhshaji</b>
 - 👀 I’m Cyber security analyst.
 - 🌱 I’m currently learning web designing, UI/UX
 - 💞️ I’m looking to collaborate on ... web development, UI/UX designing
