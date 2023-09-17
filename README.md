@@ -4,7 +4,7 @@
 - 👀 I’m Cyber security analyst.
 - 🌱 I’m currently learning web designing, UI/UX
 - 💞️ I’m looking to collaborate on ... web development, UI/UX designing
-- 📫 How to reach me ...</find me i'm ideal>
+- 📫 How to reach me ...<b>@an.irudhran</b>
 
 <!---
 Anirudhshaji/Anirudhshaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
