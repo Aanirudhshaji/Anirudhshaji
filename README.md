@@ -1,4 +1,5 @@
-<h1>Hey, i'm ANIRUDH</h1> 
+<h1><i>Hey, i'm ANIRUDH</i></h1>
+ 
 - 👋 Hi, I’m @Anirudhshaji
 - 👀 I’m Cyber security analyst.
 - 🌱 I’m currently learning web designing, UI/UX
