@@ -1,12 +1,12 @@
  <div class="hero-img-section">
-    <img src="https://www.pexels.com/photo/brown-wooden-dock-547114/"  align="right" alt="Coding">
+    <img src="img/banner.png"  align="right" alt="Coding">
 </div>
 
 *.*
 
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
-👋 Hello, I'm Anirudh shaji, front-end developer. 
+👋 Hello, I'm Dinil Thilakarathen, a 19-year-old aspiring front-end developer.From Sri Lanka 🇱🇰
     </h2>
 </div>
 
@@ -23,7 +23,12 @@
         <h3>Connect with me:</h3>
         <p>
         <a>
-            <img height="32" width="32" src="https://instagram.com/an.irudhran?utm_source=qr&igshid=MzNINGkZWQ4Mg==" />
+            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+
+</a>
+         <a href="https://www.youtube.com/@sonacode" target="blank">
+<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/[COLOR]" />
+         </a>
         </p>
     </div>
     <div class="language-section">
@@ -57,8 +62,14 @@
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
             </a>  
+            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+            </a>  
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+            </a>  
+            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
             </a> 
         </p>
     </div>
