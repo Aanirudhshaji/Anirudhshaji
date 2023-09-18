@@ -23,7 +23,7 @@
         <h3>Connect with me:</h3>
         <p>
         <a>
-            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+            <img height="32" width="32" src="https://www.instagram.com/an.irudhran/" />
 
 </a>
         </p>
