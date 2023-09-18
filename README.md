@@ -6,7 +6,7 @@
 
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
-👋 Hello, I'm Dinil Thilakarathen, a 19-year-old aspiring front-end developer.From Sri Lanka 🇱🇰
+👋 Hello, I'm Anirudh shaji, Front-end developer.
     </h2>
 </div>
 
@@ -26,9 +26,6 @@
             <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
 
 </a>
-         <a href="https://www.youtube.com/@sonacode" target="blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/[COLOR]" />
-         </a>
         </p>
     </div>
     <div class="language-section">
