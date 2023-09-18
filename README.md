@@ -1,12 +1,12 @@
  <div class="hero-img-section">
-    <img src="img/banner.png"  align="right" alt="Coding">
+    <img src="https://www.pexels.com/photo/brown-wooden-dock-547114/"  align="right" alt="Coding">
 </div>
 
 *.*
 
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
-👋 Hello, I'm Anirudh shaji, a 21-year-old aspiring front-end developer.From India 
+👋 Hello, I'm Anirudh shaji, front-end developer. 
     </h2>
 </div>
 
@@ -23,7 +23,7 @@
         <h3>Connect with me:</h3>
         <p>
         <a>
-            <img height="32" width="32" src="" />
+            <img height="32" width="32" src="https://instagram.com/an.irudhran?utm_source=qr&igshid=MzNINGkZWQ4Mg==" />
         </p>
     </div>
     <div class="language-section">
