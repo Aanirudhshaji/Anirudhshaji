@@ -1,7 +1,7 @@
 <div class="header-section" style="height:10%;width: 100%;" >
-    <h2 >
-👋 Hello, I'm Anirudh shaji, Front-end developer.
-    </h2>
+    <h1 >
+👋 Hello, I'm Anirudh shaji, 
+    </h1>
 </div>
 
 
