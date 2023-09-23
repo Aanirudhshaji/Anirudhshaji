@@ -17,7 +17,9 @@
         <h3>Connect with me:</h3>
         <p>
         <a>
-            <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+<p align="left">
+<a href="https://www.instagram.com/sneha_c_shaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sneha-c-shaji-71523b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a
         </a>
         </p>
     </div>
