@@ -58,6 +58,9 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
             </a>  
         </p>
-         <img align="left" alt="Anirudh shaji GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anirudhshaji&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
     </div>
 </div>
